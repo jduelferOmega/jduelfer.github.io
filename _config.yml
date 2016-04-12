@@ -9,7 +9,7 @@
 title: Jon Duelfer
 email: jdduelfer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Developer, Linguist, and Catan master.
+  Developer, Linguist, and Settler of Catan.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  jduelfer
